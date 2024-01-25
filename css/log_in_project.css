@@ -1,0 +1,32 @@
+
+body{
+    background-color:#00e6e6;
+  }
+  
+  #shaniw{
+    text-align:center;
+  }
+  
+  #hi{
+    
+    background-color:#e6f2ff;
+  }
+  
+  #shanj{ 
+    background-color:#005ce6;
+    padding: 10px;
+    font-family: 'Dancing Script', cursive;
+    border: 0;
+    border-radius:2px;
+    box-shadow:  10px 10px 14px ;
+   
+  }
+  
+  
+  input:required {
+    background-color: pink;
+  }
+  
+  input:invalid {
+    background-color: red;
+  }
